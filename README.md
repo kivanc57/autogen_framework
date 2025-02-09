@@ -1,7 +1,7 @@
 # AUTOGEN MULTI-AGENT
 
 ## OVERVIEW 👁️
-AutoGen Multi-Agent Technology represents a cutting-edge approach to **AI-driven automation**, designed to enhance efficiency, scalability, and intelligence in various domains. This repository showcases its capabilities through **data analysis, real-time visualization, and interactive simulations**.
+AutoGen Multi-Agent represents a cutting-edge approach to **AI-driven automation**, designed to enhance efficiency, scalability, and intelligence in various domains. This repository showcases its capabilities through **data analysis, real-time visualization, and interactive simulations**.
 
 By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, reducing manual intervention and enabling **automated decision-making**. Whether applied to **financial analytics, real-time simulations, or AI-enhanced gaming**, this technology adapts dynamically to different environments and user requirements.
 
