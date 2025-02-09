@@ -13,13 +13,7 @@ By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, r
 - 🔄 **Real-Time Data Updates**: Ensures continuous synchronization with market data for up-to-date insights.
 - 📡 **API-Driven Insights**: Seamlessly integrates with various data sources for broader analysis.
 
-## TECHNOLOGY STACK
-- **AutoGen AI Agents**: A **multi-agent system** enabling collaboration between AI-driven components.
-- **Pandas & Matplotlib**: Utilized for **data visualization and statistical analysis**.
-- **Turtle & Pygame**: Provides a robust **game development framework**.
-- **REST API Integration**: Facilitates **real-time data fetching and processing**.
-
-## REAL-WORLD APPLICATIONS
+## REAL-WORLD APPLICATIONS 🦾
 🔹 **Algorithmic Trading**: Automates **stock market analysis and decision-making**.
 
 🔹 **AI-Driven Gaming**: Enhances gaming mechanics with **intelligent automation**.
@@ -27,6 +21,13 @@ By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, r
 🔹 **Data-Driven Decision Support**: AI-assisted **strategic planning** for businesses.
 
 🔹 **Automated Research & Reporting**: Generates **AI-driven reports** and predictive analytics.
+
+## TECHNOLOGY STACK 💻🖱️
+- **AutoGen AI Agents**: A **multi-agent system** enabling collaboration between AI-driven components.
+- **Pandas & Matplotlib**: Utilized for **data visualization and statistical analysis**.
+- **Turtle & Pygame**: Provides a robust **game development framework**.
+- **REST API Integration**: Facilitates **real-time data fetching and processing**.
+
 
 ## DEPLOYMENT & EXECUTION
 1. **Clone the Repository:**
@@ -45,5 +46,5 @@ By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, r
    ```
 
 
-## CONTACT
+## CONTACT 📜
 For improvements or issues, feel free to contribute or reach out!
