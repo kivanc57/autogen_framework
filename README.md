@@ -20,10 +20,10 @@ By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, r
 - **REST API Integration**: Facilitates **real-time data fetching and processing**.
 
 ## REAL-WORLD APPLICATIONS
-- 🔹 **Algorithmic Trading**: Automates **stock market analysis and decision-making**.
-- 🔹 **AI-Driven Gaming**: Enhances gaming mechanics with **intelligent automation**.
-- 🔹 **Data-Driven Decision Support**: AI-assisted **strategic planning** for businesses.
-- 🔹 **Automated Research & Reporting**: Generates **AI-driven reports** and predictive analytics.
+🔹 **Algorithmic Trading**: Automates **stock market analysis and decision-making**.
+🔹 **AI-Driven Gaming**: Enhances gaming mechanics with **intelligent automation**.
+🔹 **Data-Driven Decision Support**: AI-assisted **strategic planning** for businesses.
+🔹 **Automated Research & Reporting**: Generates **AI-driven reports** and predictive analytics.
 
 ## DEPLOYMENT & EXECUTION
 1. **Clone the Repository:**
