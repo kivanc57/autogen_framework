@@ -28,8 +28,8 @@ By leveraging **autonomous AI agents**, AutoGen streamlines complex workflows, r
 ## DEPLOYMENT & EXECUTION
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/kivanc57/autogen_multiagent
+   cd autogen_multiagent
    ```
 2. **Install Dependencies:**
    ```bash
